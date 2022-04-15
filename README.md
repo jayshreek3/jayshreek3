@@ -1,7 +1,4 @@
-- 👋 Hi there, I’m Jayshree
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning  -"-
-- 💞️ I’m looking to collaborate with ML mentors
+Hello, Folks!
 
 
 <!---
