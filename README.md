@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **portfolio projects**
 
-- 🌱 I’m currently learning **IBM Full Stack Developer: Professional**
+- 🌱 I’m currently learning ****
 
 - 👯 I’m looking to collaborate on **MERN projects**
 
