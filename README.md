@@ -27,33 +27,33 @@ This section showcases the technology stack I'm currently using for web developm
 
 ## Frontend Development 
 
-* **React:**  A powerful JavaScript library for building user interfaces.
-* **TypeScript:**  A superset of JavaScript that adds static typing for improved code maintainability.
-* **Tailwind CSS:** A utility-first CSS framework for rapid UI development.
+* ```React```: A powerful JavaScript library for building user interfaces.
+* ```TypeScript```: A superset of JavaScript that adds static typing for improved code maintainability.
+* ```Tailwind CSS```: A utility-first CSS framework for rapid UI development.
 
 ## Backend Development ️
 
-* **Node.js & Express.js (MERN Stack):**  JavaScript runtime environment and web framework for building scalable server-side applications.
-* **MongoDB:**  A NoSQL document database for flexible data storage.
-* **Nest.js:** A progressive Node.js framework for building scalable and efficient server-side applications.
-* **Firebase:** A suite of Google Cloud Platform (GCP) services for building web and mobile apps.
+* ```Node.js & Express.js (MERN Stack)```:  JavaScript runtime environment and web framework for building scalable server-side applications.
+* ```MongoDB```: A NoSQL document database for flexible data storage.
+* ```Nest.js```: A progressive Node.js framework for building scalable and efficient server-side applications.
+  ```Firebase```: A suite of Google Cloud Platform (GCP) services for building web and mobile apps.
 
 ## Programming Languages
 
-* **JavaScript (ES6+):** A versatile and widely used language for web development, server-side scripting, and more.
-* **Python:**  A general-purpose language popular for data science, machine learning, and automation.
-* **Java:**  An object-oriented language widely used for enterprise applications and Android development.
-* **C++:**  A high-performance language for system programming, game development, and performance-critical applications.
+* ```JavaScript (ES6+)```: A versatile and widely used language for web development, server-side scripting, and more.
+* ```Python```: A general-purpose language popular for data science, machine learning, and automation.
+* ```Java```: An object-oriented language widely used for enterprise applications and Android development.
+* ```C++```: A high-performance language for system programming, game development, and performance-critical applications.
 
 ## Testing 
 
-* **Postman:** A collaboration platform for API development and testing.
+* ```Postman```: A collaboration platform for API development and testing.
 
 ## Others ✨
 
-* **Scrum/Agile:** Project management methodologies for iterative and collaborative development.
-* **Confluence:**  A team knowledge and collaboration platform. 
-* **Jira:**  A project management tool for agile software development.
+* ```Scrum/Agile```: Project management methodologies for iterative and collaborative development.
+* ```Confluence```: A team knowledge and collaboration platform. 
+* ```Jira```: A project management tool for agile software development.
 
 This list is constantly evolving as I learn and explore new technologies.
 
