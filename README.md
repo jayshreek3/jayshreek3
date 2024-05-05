@@ -1,15 +1,10 @@
-<h1 align="center">Hi 👋, I'm Jayshree Keskar</h1>
-<h3 align="center">I am a software developer from India</h3>
+<h1 align="center">Hi 👋, I'm Jayshree</h1>
+<h3 align="center">I'm a 24-year-old developer based in India, and I'm passionate about crafting web applications.</h3>
 <h4>Welcome to my GitHub! This is where I play around with code and build things that make me happy. Take a look around, and if you want to chat about anything, just give me a shout! 😊</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jayshreek3&label=Profile%20views&color=0e75b6&style=flat" alt="jayshreek3" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayshreek3" alt="jayshreek3" /></a> </p>
 
-- 🔭 I’m currently working on **portfolio projects**
-
-- 🌱 I’m currently learning ****
-
-- 👯 I’m looking to collaborate on **MERN projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jayshreek3](https://github.com/jayshreek3)
 
