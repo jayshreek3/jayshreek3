@@ -36,7 +36,7 @@ This section showcases the technology stack I'm currently using for web developm
 * ```Node.js & Express.js (MERN Stack)```:  JavaScript runtime environment and web framework for building scalable server-side applications.
 * ```MongoDB```: A NoSQL document database for flexible data storage.
 * ```Nest.js```: A progressive Node.js framework for building scalable and efficient server-side applications.
-  ```Firebase```: A suite of Google Cloud Platform (GCP) services for building web and mobile apps.
+* ```Firebase```: A suite of Google Cloud Platform (GCP) services for building web and mobile apps.
 
 ## Programming Languages
 
