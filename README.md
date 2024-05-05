@@ -23,7 +23,7 @@
 
 # My Developer Toolbox 
 
-This README showcases the technology stack I'm currently using for web development.
+This section showcases the technology stack I'm currently using for web development.
 
 ## Frontend Development 
 
