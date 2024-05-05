@@ -26,4 +26,31 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayshreek3&" alt="jayshreek3" /></p>
 
+# My Developer Toolbox 
+
+This README showcases the technology stack I'm currently using for web development.
+
+## Frontend Development 
+
+* **React:**  A powerful JavaScript library for building user interfaces.
+* **TypeScript:**  A superset of JavaScript that adds static typing for improved code maintainability.
+* **Tailwind CSS:** A utility-first CSS framework for rapid UI development.
+
+## Backend Development ️
+
+* **Nest.js:** A progressive Node.js framework for building scalable and efficient server-side applications.
+* **Firebase:** A suite of Google Cloud Platform (GCP) services for building web and mobile apps.
+
+## Testing 
+
+* **Postman:** A collaboration platform for API development and testing.
+
+## Others ✨
+
+* **Scrum/Agile:** Project management methodologies for iterative and collaborative development.
+* **Confluence:**  A team knowledge and collaboration platform. 
+* **Jira:**  A project management tool for agile software development.
+
+This list is constantly evolving as I learn and explore new technologies.
+
 
