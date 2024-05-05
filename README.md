@@ -2,11 +2,11 @@
 <h3 align="center">I'm a 24-year-old developer based in India, and I'm passionate about crafting web applications.</h3>
 <h4>Welcome to my GitHub! This is where I play around with code and build things that make me happy. Take a look around, and if you want to chat about anything, just give me a shout! 😊</h4>
 
-- 👨‍💻 All of my projects are available at [https://github.com/jayshreek3](https://github.com/jayshreek3)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/jayshreek3) and [Netlify](https://app.netlify.com/teams/jayshreek3/sites)
 
-- 📫 How to reach me **jayshreekeskar321@gmail.com**
+- 📫 How to reach me [Gmail](jayshreekeskar321@gmail.com)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/jayshree-keskar/](https://www.linkedin.com/in/jayshree-keskar/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/jayshree-keskar/)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
