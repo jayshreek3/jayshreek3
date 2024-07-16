@@ -14,10 +14,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/jayshree-keskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayshree-keskar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14518193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14518193" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/jayshree28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jayshree28" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jayshreekeskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jayshreekeskar" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/jayshreeke0tjo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jayshreeke0tjo" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
