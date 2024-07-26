@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jayshree</h1>
 
-<h3 align="center">I'm a 24-year-old developer based in India, and I'm passionate about crafting web applications.</h3>
+<h3 align="center">I'm a software developer based in India, and I'm passionate about crafting web applications.</h3>
 <h4>Welcome to my GitHub! This is where I play around with code and build things that make me happy. Feel free to star my repos if you like them ⭐ and let's collaborate on exciting projects! 🤝</h4>
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/jayshreek3) and [Netlify](https://app.netlify.com/teams/jayshreek3/sites)
